@@ -63,7 +63,10 @@ AliOS Things是阿里云智能IoT开发的物联网操作系统，在物联网�
 * 云存储服务：阿里云OSS服务
 * HaaS EDU K1技术文档：https://blog.csdn.net/haastech/category_10825080.html
 * HaaS100快速开始文档：https://help.aliyun.com/document_detail/184184.html
-* AliOS Things物联网操作系统说明文档：https://github.com/alibaba/AliOS-Things/tree/dev_3.1.0_haas
+* AliOS Things物联网操作系统说明文档：
+* 1. (推荐使用) AliOS Things 3.3版本:https://gitee.com/alios-things/AliOS-Things/tree/rel_3.3.0/
+* 1.1 OSS 组件说明文档: https://gitee.com/alios-things/AliOS-Things/tree/rel_3.3.0/components/oss
+* 2. AliOS Things 3.1版本: https://github.com/alibaba/AliOS-Things/tree/dev_3.1.0_haas
 * 阿里云OSS SDK说明：https://help.aliyun.com/product/31815.html?spm=a2c4g.11186623.6.540.4dc426fdq0ZNv5
 * 注意，阿里云提供多种语言的OSS SDK，选择C++或C语言版SDK即可。
 
